@@ -1,9 +1,9 @@
 # Flutter-Experiment
 Learning List using the Flutter Framework
 1. My Learning sc: https://www.youtube.com/@KuldiiProject
-2. Dart Basic sc:
-3. Stateless Vs Statefull sc:
-4. Widget Dasar sc:
+2. Dart Basic sc: https://github.com/HANNN-YOLO/Dart-Basic
+3. Stateless Vs Statefull sc: https://github.com/HANNN-YOLO/Less-vs-Full
+4. Widget Dasar sc: https://github.com/HANNN-YOLO/widget
 5. Text Widget sc:
 6. Visible vs Invisible sc:
 7. List View sc:
