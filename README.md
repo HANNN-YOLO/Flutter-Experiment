@@ -25,13 +25,13 @@ Learning List using the Flutter Framework
 23. Routes sc: https://github.com/HANNN-YOLO/Routes
 24. Drawer sc: https://github.com/HANNN-YOLO/Drawer
 25. Switch sc: https://github.com/HANNN-YOLO/Switch
-26. Model sc: 
-27. Theme sc:
-28. Responsive VS Adaptive sc:
-29. Media Query sc:
-30. Flexible & Exoanded sc:
-31. Fitted Box sc:
-32. Layout Builder sc:
-33. Cupertino sc:
-34. Date Picker sc:
+26. Model sc: https://github.com/HANNN-YOLO/Models
+27. Theme sc: https://github.com/HANNN-YOLO/Theme
+28. Responsive VS Adaptive sc: https://www.youtube.com/watch?v=hFdUWNzqKkA&list=PL7jdfftn7HKsfTtv8FOaTbLIf7feiQTRu&index=28
+29. Media Query sc: https://github.com/HANNN-YOLO/Media-Query
+30. Flexible & Exoanded sc: https://github.com/HANNN-YOLO/Flexible-vs-Expanded
+31. Fitted Box sc: https://github.com/HANNN-YOLO/Fitted-Box
+32. Layout Builder sc: https://github.com/HANNN-YOLO/Layout-Builder
+33. Cupertino sc: https://github.com/HANNN-YOLO/Cupertino
+34. Date Picker sc: https://github.com/HANNN-YOLO/Date-Picker
 35. State Management (Provider) sc: https://github.com/HANNN-YOLO/Provider
