@@ -35,3 +35,4 @@ Learning List using the Flutter Framework
 33. Cupertino sc: https://github.com/HANNN-YOLO/Cupertino
 34. Date Picker sc: https://github.com/HANNN-YOLO/Date-Picker
 35. State Management (Provider) sc: https://github.com/HANNN-YOLO/Provider
+36. Nested Model + Provider sc:https://github.com/HANNN-YOLO/Nested-Provider
