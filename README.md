@@ -5,7 +5,7 @@ Learning List using the Flutter Framework
 3. Stateless Vs Statefull sc: https://github.com/HANNN-YOLO/Less-vs-Full
 4. Widget Dasar sc: https://github.com/HANNN-YOLO/Basic-widget
 5. Text Widget sc: https://github.com/HANNN-YOLO/widget
-6. Visible vs Invisible sc: 
+6. Visible vs Invisible sc: https://github.com/HANNN-YOLO/visible-invisible
 7. List View sc: git remote add origin https://github.com/HANNN-YOLO/Image.git
 8. List Tile sc: https://github.com/HANNN-YOLO/List-Tile
 9. Image Widget sc: https://github.com/HANNN-YOLO/Image
