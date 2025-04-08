@@ -6,9 +6,9 @@ Learning List using the Flutter Framework
 4. Widget Dasar sc: https://github.com/HANNN-YOLO/Basic-widget
 5. Text Widget sc: https://github.com/HANNN-YOLO/widget
 6. Visible vs Invisible sc: 
-7. List View sc: 
+7. List View sc: git remote add origin https://github.com/HANNN-YOLO/Image.git
 8. List Tile sc: https://github.com/HANNN-YOLO/List-Tile
-9. Image Widget sc: 
+9. Image Widget sc: https://github.com/HANNN-YOLO/Image
 10. Eztract Widget sc: https://github.com/HANNN-YOLO/Extrack-Widget
 11. Using Statefull sc: https://github.com/HANNN-YOLO/Using-Statefull
 12. Mapping list sc: https://github.com/HANNN-YOLO/Mapping-List
