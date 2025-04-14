@@ -37,3 +37,5 @@ Learning List using the Flutter Framework
 35. State Management (Provider) sc: https://github.com/HANNN-YOLO/Provider
 36. Nested Model + Provider sc:https://github.com/HANNN-YOLO/Nested-Provider
 37. Consumer + Provider sc:https://github.com/HANNN-YOLO/consumer-provider
+38. Multi Provider sc: https://github.com/HANNN-YOLO/multi_provider
+39. Provider Preview sc: https://github.com/HANNN-YOLO/provider_preview
