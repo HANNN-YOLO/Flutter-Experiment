@@ -39,6 +39,8 @@ Learning List using the Flutter Framework
 37. Consumer + Provider sc:https://github.com/HANNN-YOLO/consumer-provider
 38. Multi Provider sc: https://github.com/HANNN-YOLO/multi_provider
 39. Provider Preview sc: https://github.com/HANNN-YOLO/provider_preview
-40. HTTP Reqeust (Rest API) sc : https://youtu.be/saSPGkvgg_M?si=1zrQKBFDJthTMUX
-41. HTTP Request (Post) sc: https://github.com/HANNN-YOLO/HTTP-Post
-42. 
+40. Provider + Shareed Prefence sc : https://github.com/HANNN-YOLO/test-shared-preference
+41. HTTP Reqeust (Rest API) sc : https://youtu.be/saSPGkvgg_M?si=1zrQKBFDJthTMUX
+42. HTTP Request (Post) sc: https://github.com/HANNN-YOLO/HTTP-Post
+43. HTTP CRUD (RealTime) Firebase sc: https://github.com/HANNN-YOLO/http-firebase
+44. Widgets LIfecycle sc: https://github.com/HANNN-YOLO/widgets-lifecyle
