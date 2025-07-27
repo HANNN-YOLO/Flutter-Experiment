@@ -44,3 +44,4 @@ Learning List using the Flutter Framework
 42. HTTP Request (Post) sc: https://github.com/HANNN-YOLO/HTTP-Post
 43. HTTP CRUD (RealTime) Firebase sc: https://github.com/HANNN-YOLO/http-firebase
 44. Widgets LIfecycle sc: https://github.com/HANNN-YOLO/widgets-lifecyle
+45. App Lifecycle sc: https://github.com/HANNN-YOLO/app-cycle
