@@ -45,3 +45,4 @@ Learning List using the Flutter Framework
 43. HTTP CRUD (RealTime) Firebase sc: https://github.com/HANNN-YOLO/http-firebase
 44. Widgets LIfecycle sc: https://github.com/HANNN-YOLO/widgets-lifecyle
 45. App Lifecycle sc: https://github.com/HANNN-YOLO/app-cycle
+46. Future Builder sc: https://github.com/HANNN-YOLO/future_builder
